@@ -168,7 +168,7 @@ function initVbook() {
    });
    // Share   ------------------
    $(".share-container").share({
-      networks: ['facebook', 'pinterest', 'twitter', 'tumblr']
+      networks: ['facebook', 'twitter', 'linkedin']
    });
    var shrcn = $(".share-container"),
       swra = $(".share-wrapper"),
