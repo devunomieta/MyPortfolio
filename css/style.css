@@ -2580,6 +2580,7 @@ canvas{
 	text-transform:uppercase;
 	margin-bottom:20px;
 }
+
 /*------responsive------------------------------------------------*/
 @media only screen and (max-height: 790px) {
 .top-opt , .main-header {
@@ -2600,13 +2601,14 @@ canvas{
 .main-header::-webkit-scrollbar {
   width: 0px;
 }
+
 .header_btn {
     position:relative;
     bottom: auto;
     left: 20px;
     right: 0;
 	float: left;
-	width: calc(40% - 40px);
+	width: calc(100% - 40px);
 	margin : 20px 0 60px;
 }	
 }
