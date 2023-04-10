@@ -2585,6 +2585,7 @@ canvas{
 .top-opt , .main-header {
     top: 20px;
 }
+
 .content-holder , .main-footer {
     top: 90px;
 }
@@ -2605,7 +2606,7 @@ canvas{
     left: 20px;
     right: 0;
 	float: left;
-	width: calc(100% - 40px);
+	width: calc(40% - 40px);
 	margin : 20px 0 60px;
 }	
 }
