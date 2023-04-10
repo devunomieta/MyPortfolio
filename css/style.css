@@ -2581,6 +2581,10 @@ canvas{
 	margin-bottom:20px;
 }
 
+.see-more-btn{
+	max-width: 40%;
+}
+
 /*------responsive------------------------------------------------*/
 @media only screen and (max-height: 790px) {
 .top-opt , .main-header {
