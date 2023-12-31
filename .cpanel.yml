@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/unomieta/repositories/MyPortfolio
+    - export DEPLOYPATH=/home/unomieta/public_html/
     - /bin/cp -R * $DEPLOYPATH
     
